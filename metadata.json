@@ -1,0 +1,6 @@
+{
+  "name": "Three Kingdoms: War of Warlords",
+  "description": "A real-time grand strategy browser game set in the Three Kingdoms era of ancient China. Command armies, capture cities, manage resources, and unite the realm.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

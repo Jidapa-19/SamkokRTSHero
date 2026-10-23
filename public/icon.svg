@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <rect width="512" height="512" rx="72" fill="#14120F" />
+  <rect x="36" y="36" width="440" height="440" rx="48" fill="#1F1A14" stroke="#D97706" stroke-width="14" />
+  <rect x="64" y="64" width="384" height="384" rx="28" fill="none" stroke="#F59E0B" stroke-width="4" stroke-dasharray="18 10" />
+  <circle cx="256" cy="256" r="136" fill="#281F15" stroke="#D97706" stroke-width="8" />
+  <text x="256" y="292" text-anchor="middle" fill="#F59E0B" font-family="serif" font-weight="bold" font-size="112">三國</text>
+</svg>
